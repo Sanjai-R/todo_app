@@ -2,8 +2,6 @@
 
 A cross platform mobile application to help you do your work on time.
 
-## Getting Started
-
 ## ScreenShots
 <div align="left">
  <img src="https://user-images.githubusercontent.com/62475598/102682832-6fe37200-41f2-11eb-973b-2dc5fc2d7640.png" width="150" height="300">
@@ -21,3 +19,4 @@ A cross platform mobile application to help you do your work on time.
     <li>Easy to use UI, with DARK mode.</li>
     <li>Edit your stats.</li>
     </ul></h3>
+## How to run
