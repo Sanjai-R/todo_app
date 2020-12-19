@@ -19,4 +19,7 @@ A cross platform mobile application to help you do your work on time.
     <li>Easy to use UI, with DARK mode.</li>
     <li>Edit your stats.</li>
     </ul></h3>
-## How to run
+
+## How to Run
+  **`flutter packages `** <br>
+**`flutter run --release`**
