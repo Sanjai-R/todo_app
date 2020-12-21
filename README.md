@@ -1,6 +1,11 @@
 # todo_app
 
 A cross platform mobile application to help you do your work on time.
+## Pre-requists:
+  
+- Android SDK 21
+- Android Gradle Plugin 3.0
+- Android Support Repository
 ## ScreenShots
 <div align="left">
  <img src="https://user-images.githubusercontent.com/62475598/102682832-6fe37200-41f2-11eb-973b-2dc5fc2d7640.png" width="150" height="300">
